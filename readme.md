@@ -1,4 +1,4 @@
-# GitHub User Guide for MCTs
+# GitHub User Guide for MCTs(翻译好的内容)
 
 Cloud services, such as Microsoft Azure, are updated frequently. This leads to issues for Microsoft Certified Trainers (MCTs) when they teach courses, because lab steps change frequently as the service changes. Due to the frequency of the changes and the fact that there may not be any notification when changes occur, it can be difficult for the course development team to rapidly identify and address any lab changes. 
 
